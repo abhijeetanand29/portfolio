@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Abhijeet Anand is a Data Scientist specializing in machine learning, deep learning, and building scalable ML systems for real-world impact.',
     siteUrl: 'https://abhijeetanand29.netlify.app', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '', // No OG image - will use default
     twitterUsername: '@abhijeetanand',
   },
   plugins: [
